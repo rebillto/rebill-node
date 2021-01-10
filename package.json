@@ -1,0 +1,44 @@
+{
+  "name": "rebill",
+  "version": "1.0.1",
+  "description": "Rebill API Wrapper.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebillto/rebill-node.git"
+  },
+  "keywords": [
+    "Rebill",
+    "rebill.to",
+    "Rebill",
+    "API",
+    "recurring",
+    "billing",
+    "subscriptions",
+    "memberships",
+    "latam",
+    "latin",
+    "america",
+    "recurring",
+    "payments",
+    "payments",
+    "processing",
+    "PCI",
+    "compliance",
+    "security",
+    "credit",
+    "cards",
+    "bank",
+    "accounts",
+    "payments"
+  ],
+  "author": "Rebill, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rebillto/rebill-node/issues"
+  },
+  "homepage": "https://github.com/rebillto/rebill-node#readme"
+}
